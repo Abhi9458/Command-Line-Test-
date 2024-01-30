@@ -1,0 +1,50 @@
+1.What command clears the contents of your terminal display?
+a.Clear
+b.Catch
+c.Delete
+d.Remove
+2.What is the command to delete a file?
+a.Rm
+b.Rk
+c.Rc
+d.Dl
+3.What command is used to change directories?
+a.Dc
+b.Cdc
+c.Cd
+d.None of these
+4.What command is used to get the IP address of all interfaces on a server?
+a.Ipp
+b.Ip2
+c.Ippp
+d.None of these
+5.What command is used to change ownership of a file?
+a.Chawn
+b.Chown
+c.Chan
+d.Cd chown
+6.What command is used to copy a file?
+a.Px
+b.Xp
+c.Cp
+d.None of these
+7.What command shows you how long it has been since the server was rebooted?
+a.Cd chown
+b.Downtime
+c.Uptime
+d.Ipp
+8.What command shows you what directory you are in?
+a.Ppx
+b.Px
+c.Wpd
+d.Pwd
+9.What command creates an empty directory?
+a.Mkdir
+b.Ipp
+c.Cd chown
+d.None of these
+10.Which command(s) show users that are logged in?
+a.Px
+b.Who
+c.Remove
+d.Catch
